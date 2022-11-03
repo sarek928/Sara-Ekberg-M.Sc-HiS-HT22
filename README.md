@@ -1,13 +1,5 @@
 # exjobb
 
-This repo need to have conda installed.
+This is a repo containing all script and additonal files associated with the master thesis **Evaluation and implementation of quality control parameters for genome-wide DNA methylome sequencing** for Univeristy of Skövde ht 2022.
 
-TODO: Fix README
-
-conda create -n exjobb python=3.9
-to use: conda activate exjobb
-To deactivate an active environment, use
-#
-#     $ conda deactivate
-
-Först sätta upp miljö, sen installer nextflow
+All scripts has been run on the Uppmax cluster Miarka from the Uppmax project ngi2016001 provided by SciLifeLab Genomics SNP&SEQ Technology Platform.
